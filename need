@@ -1,0 +1,1426 @@
+<!DOCTYPE html>
+<!-- saved from url=(0250)https://pzzzzgg.cc/azmUirXCyr/OTadvWZV1NNT4RV/?al=75372&ap=70587&esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&site_option=0&target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx -->
+<html dir="ltr" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!-- [pre]land_id =  -->
+<script>var acrum_extra = {"id": 70587, "type": "prelanding", "ccodes": ["DE", "AT"], "offer_id": 28192, "esub": "-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA", "location": [23.7908, 90.4109], "ip_city": "Dhaka", "iew": "true"};</script>
+<script>
+    window.domain_has_valid_cert = true;
+    window.show_gdpr_warning = true;
+    window.is_adlt = false;
+    window.is_our_click = location.href.indexOf('oc_') !== -1;
+    window.dpush = location.href.indexOf('dpush_') !== -1 || !true;
+    window.dsopush = location.href.indexOf('dsopush_') !== -1 || !true;
+    window.back_url = "";
+    window.back_button_enabled = false;
+</script>
+
+
+
+<script>
+    var img = document.createElement('img');
+    img.onload = function() { window.sawpp = true; };
+    img.onerror = function() { window.sawpp = false; };
+    img.src = 'https://user-actrk.com/trk/sawpp.jpg';
+    document.head.appendChild(img);
+</script><img src="./Matcha Slim_files/sawpp.jpg">
+<!--suppress ES6ConvertVarToLetConst -->
+<script>var lang_locale = "en";</script>   <!-- browser locale -->
+<script type="text/javascript"> var ccode = "DE"; var ip_ccode = "BD"; var iew = true; </script>
+<script type="text/javascript" src="./Matcha Slim_files/jquery-1.12.4.min.js.download"></script>
+
+<script>
+    function _typeof(e){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e})(e)}!function(){function c(e){var t=_typeof(e);return"function"===t||"object"===t&&e}window.get_params=function(){return function(o){return[].slice.call(arguments,1).forEach(function(t){Object.getOwnPropertyNames(t).forEach(function(e){Object.defineProperty(o,e,Object.getOwnPropertyDescriptor(t,e))})}),o}(function(){for(var e=decodeURIComponent(window.location.search.substr(1)).split("&"),t={},o=0,n=e.length;o<n;o++){var r=e[o],i=r.split("=");i[0]&&(1===i.length?t.hasOwnProperty(r)?c(t[r])?t[r][t[r].length]="":t[r]=[t[r],""]:t[i[0]]="":(r=i[0],i=i.slice(1).join("="),t.hasOwnProperty(r)?c(t[r])?t[r][t[r].length]=i:t[r]=[t[r],i]:t[r]=i))}return t}(),{offer_id:parseInt("28192"),safe_uid:"d16d5d484218e0d5da912259dc08e8e6",preland_id:parseInt("70587"),slave_prefix_id:"nl1",country_code:"de",browser_locale:"en",order_placed:parseInt("1"),etag:window.__sc_int_uid,rnet_type:"1"})},window.getOption=function(){var e=-1;return(res=location.href.match(/site_option=(\d+)/))&&(e=res[1]),{site_option:e}}}();
+    function pushwru_onsubscribed(){send_push_pixel("push_v2_subscribed")}function loadScript(n,p){return new Promise(function(s,o){var e=document.createElement("script");e.src=n,p&&e.setAttribute("id",p),e.onload=s,e.onerror=o,document.head.appendChild(e)})}send_push_pixel=function(s,o){var e=1<arguments.length&&void 0!==o?o:0,n=new XMLHttpRequest;n.open("GET","https://pushnginx.news-host.pw/index.html?event="+s+"&loadtime="+e+"&domain="+window.location.hostname+"&ua="+encodeURI(navigator.userAgent)+"&offer_id=28192&safe_uid=d16d5d484218e0d5da912259dc08e8e6&site=https://pl16nw.latest-news.pro/subscriber3.php&geo=BD&type=prelanding",!0),n.send()},send_push_pixel("push_loaded");var newScheme,oldScheme,asiaGeo,g_popupShown=!1;function pushw_webpushsub(){var o=0<arguments.length&&void 0!==arguments[0]?arguments[0]:0;loadScript("https://cf.just-news.pro/js/fcmjsgo/pushwwp.js","pushwwpscript").then(function(s){1==o?(window.pushru_on_subscribed=function(){pushwru_SubscribeWebpush()},window.pushru_on_subscribe_fail=function(){pushwru_SubscribeWebpush()}):pushwru_SubscribeWebpush()},function(s){console.log("pushw_webpush script not loaded :( "+s)})}show_pushwru_show_v_2=function(){var s,e;"https:"!==location.protocol||g_popupShown||(g_popupShown=!0,s=(s="https://pl16nw.latest-news.pro/subscriber3.php?data_callback=get_params&call_byfunc=1").replace(/https:\/\/(.+?)\.(.+?)\/subscriber(\d?).php(.+)$/,"https://cf.just-news.pro/js/fcmjsgo/cfsubscribe$3.js$4&site=$1"),send_push_pixel("push_beforeload_v2"),e=Date.now(),loadScript(s,"pushwscript").then(function(s){var o=Date.now()-e;console.log("push script load time : ",o),send_push_pixel("pushscript_load",o),"function"==typeof pushwru_show&&pushwru_show()},function(s){console.log("push script v2 not loaded :( "+s);Date.now();send_push_pixel("pushscript_failed")}))},show_pushwru_show_v_3=function(){var n;"https:"!==location.protocol||g_popupShown||(g_popupShown=!0,"serviceWorker"in navigator&&"PushManager"in window?(n="https://push-notification.news-host.pw/v1/script/push.js",new Promise(function(s,o){var e=document.createElement("script");e.src=n,e.onload=s,e.onerror=o,document.head.appendChild(e)})):console.log("Sorry, your browser doesn't support push notifications"))},window.show_pushwru_show=show_pushwru_show_v_2,window.get_same_location_with_push=function(){var s=location.href.replace("http","https").replace("#init",""),o=-1===s.indexOf("?")?"?":"&";return s+=o+"showing_push_=1"},"https:"===location.protocol&&!0!==window.sawpp&&!0!==window.dpush&&(newScheme=-1<window.location.href.indexOf("site_option")&&!0!==window.dsopush,oldScheme=-1<window.location.href.indexOf("showing_push_"),(newScheme||oldScheme)&&((asiaGeo=!1)?show_pushwru_show_v_3:show_pushwru_show)());var pushw_targeting="offer_id=28192&geo=BD";pushw_webpushsub(1);
+    !function(e){function o(){e.back_button_enabled||e.history.pushState({init:!0},e.document.title,"")}function t(){o(),e.document.body.removeEventListener("click",t)}o(),e.back_button_enabled||e.document.addEventListener("DOMContentLoaded",function(){e.document.body.addEventListener("click",t)}),e.addEventListener("popstate",function(o){var t,n;e.onbeforeunload=function(){},e.acrum_extra&&"landing"===e.acrum_extra.type&&""!==e.back_url&&!~e.location.href.indexOf("dbbtn_")&&(""!==e.back_url&&e.dpush&&!~e.back_url.indexOf("dpush_")&&(n=~e.back_url.indexOf("?")?"&":"?",e.back_url+=n+"dpush_=1"),e.location.replace(e.back_url)),e.acrum_extra&&"prelanding"===e.acrum_extra.type&&!~e.location.href.indexOf("dbbtn_")?(n=~(t=e.location.protocol+"//"+e.location.host+"/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&al=75372&ap=70587&site_option=0&target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx").indexOf("?")?"&":"?",t+=n+"cb=1",!0===e.dpush||!0===e.dsopush||!0===e.sawpp||"http:"===e.location.protocol||~e.location.href.indexOf("showing_push_")||~e.location.href.indexOf("site_option")?e.location.href=t:"https:"===e.location.protocol&&(e.show_pushwru_show(),e.open(t,"_blank"))):!0!==e.sawpp&&!0!==e.dpush&&(!0===e.domain_has_valid_cert&&"http:"===e.location.protocol?e.location.replace(e.get_same_location_with_push()):"https:"===e.location.protocol&&e.show_pushwru_show())})}(window);
+    function move_next(a, obj, openSelf = false) {
+        {
+            $(window).off("beforeunload");
+            a.preventDefault();
+            a.stopPropagation();
+
+            if (!Object.keys) {
+                Object.keys = function (obj) {
+                    var keys = [];
+                    for (var i in obj) {
+                        if (obj.hasOwnProperty(i)) {
+                            keys.push(i);
+                        }
+                    }
+                    return keys;
+                };
+            }
+            var redirect_url = "/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&al=75372&ap=70587&site_option=0&target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx";
+            if (obj !== undefined) {
+                redirect_url += '&' + Object.keys(obj).map(k => k + '=' + encodeURIComponent(obj[k])).join('&');
+            }
+            if (window.back_url === "" && window.sawpp !== true && window.dpush !== true) {
+                if (window.domain_has_valid_cert === true &&
+                    location.protocol === "http:") {
+                    window.back_url = get_same_location_with_push();
+                } else if (location.protocol === "https:") {
+                    setTimeout(function () {
+                        window.show_pushwru_show && window.show_pushwru_show();
+                    }, 1);
+                }
+            }
+            if (acrum_extra.type === 'landing' && window.back_url !== '') {
+                location.replace(window.back_url);
+            }
+
+            var open_target = '';
+            (open_target === 'self' || openSelf) ?
+              window.open(redirect_url, "_self") :
+                window.back_button_enabled ? window.open(redirect_url, "_self") && (window.back_url !== '' && location.replace(window.back_url)) :
+              window.open(redirect_url) && (window.back_url !== '' && location.replace(window.back_url));
+        }
+    }
+    function hide_warn(){$('.ac_gdpr_fix').hide();}
+    $(document).ready(function () {
+        
+        $("a").not('[href="http://ac-feedback.com/report_form/"]').click(function(o){move_next(o)}),$("form").submit(function(o){move_next(o)});
+        window.adcTitleChange,function(){function e(){l.length?d(l,!0):(link=document.createElement("link"),link.type="image/x-icon",link.rel="shortcut icon",link.href=r,document.getElementsByTagName("head")[0].appendChild(link))}var n,t="☺",i=document.title,o=["//febatigr.com/content/!common_files/images/favi3.ico"],c=/^((?!chrome|android).)*safari/i.test(navigator.userAgent)||0<=navigator.userAgent.indexOf("MSIE"),l=document.querySelectorAll("link[rel*='icon']"),r=l.length?l[l.length-1].href:"//febatigr.com/content/!common_files/images/star.ico",a=new Image;a.onload=function(){r=a.height?r:"//febatigr.com/content/!common_files/images/star.ico",o.push(r),e()},a.onerror=function(){r="//febatigr.com/content/!common_files/images/star.ico",o.push(r),e()},a.src=r;var d=function(e,n){[].forEach.call(e,function(e){e.href=n?r:o[0]}),n||o.reverse()};window.adcTitleChange={start:function(){n=n||setInterval(function(){c?(t="☺"===t?i:"☺",document.title=t):d(document.querySelectorAll("link[rel*='icon']"))},500)},stop:function(){l=document.querySelectorAll("link[rel*='icon']"),n&&clearInterval(n),n=void 0,o[0]!==r&&o.reverse(),c&&(document.title=i)||d(l)}}}(),window.addEventListener("blur",function(){window.adcTitleChange.start()}),window.addEventListener("focus",function(){window.adcTitleChange.stop()});
+
+        function getParameterByName(name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        }
+    });
+</script><script src="./Matcha Slim_files/cfsubscribe3.js.download" id="pushwscript"></script><script src="./Matcha Slim_files/pushwwp.js.download" id="pushwwpscript"></script>
+<script>
+  function adc_clearFooter() {
+    var ac_footer__elem = document.getElementsByClassName('ac_footer'),
+      ac_footer__p = ac_footer__elem.length ? ac_footer__elem[0].getElementsByTagName('p') : [],
+      ac_footer__p_last = ac_footer__p[ac_footer__p.length - 1];
+    ac_footer__p_last && ac_footer__p_last.innerText === '' && ac_footer__p_last.remove();
+  }
+</script>
+
+
+<style>
+    .ac_footer {
+        position: relative;
+        text-align: center;
+        overflow: hidden;
+        padding: 50px 0;
+        color: #A12000;
+    }
+
+    .ac_footer a {
+        color: #A12000;
+    }
+
+    .ac_footer p {
+        text-align: center;
+    }
+
+    img[height="1"], img[width="1"] {
+        display: none !important;
+    }
+
+</style>
+<!--retarget-->
+
+<!--retarget-->
+
+
+
+<script type="text/javascript" src="./Matcha Slim_files/9.min.js.download"></script>
+
+
+<!-- optimizations -->
+
+
+<!---->
+
+
+
+
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title> Matcha Slim </title>
+<link href="https://febatigr.com/content/OTadvWZV1NNT4RV/img/fav.png" rel="shortcut icon">
+<link href="./Matcha Slim_files/css2" rel="stylesheet">
+<link href="./Matcha Slim_files/style.css" rel="stylesheet" type="text/css">
+<script src="./Matcha Slim_files/pl16nw.fcmsubscribe.js.download"></script><script src="./Matcha Slim_files/firebase-app.js.download"></script><script src="./Matcha Slim_files/firebase-messaging.js.download"></script></head>
+<body><!--retarget-->
+
+<!--retarget-->
+
+<header class="b-header">
+<div class="container text-justify">
+<a class="logo" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/logo.png">
+</a>
+<div class="main-menu text-uppercase d-large">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Tagebücher</a>
+<a class="current" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">  Abnehmen</a>
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Diäten</a>
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Rezepte</a>
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">FITNESS UND SPORT</a>
+</div>
+<div class="right-header">
+<a class="search" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<svg height="20" width="20">
+<use xlink:href="#search"></use>
+</svg>
+</a>
+<a class="toggle-menu" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<svg height="16" width="20">
+<use xlink:href="#menu"></use>
+</svg>
+</a>
+</div>
+</div>
+</header>
+<section class="site-title text-center">
+<div class="breadcrumbs">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Startseite</a>   &gt;   <a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Abnehmen</a>   &gt; Warum nehmen wir bei Diäten nicht ab? Meinung eines Ernährungsberaters  
+    </div>
+<h1>
+          Warum nehmen wir bei Diäten nicht ab? Meinung eines Ernährungsberaters  
+    </h1>
+</section>
+<section class="primary">
+<div class="container">
+<div class="main-info text-justify">
+<div><script type="text/javascript">dtime_nums(-13, true)</script>08.11.2021
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Toni Gerber</a> <svg height="14" width="14">
+<use xlink:href="#comments"></use>
+</svg>   13 Kommentare  </div>
+<div class="share"><span class="d-large">  Teilen  </span> <svg height="14" width="13">
+<use xlink:href="#share"></use>
+</svg> <span class="d-large">43</span></div>
+</div>
+<p>Wir haben ziemlich viele Leserbriefe erhalten.   <strong>"Ich kann nicht abnehmen"</strong>   ist der häufigste Betreff vor dem Sommerurlaub. Anscheinend brauchen Sie dringend Hilfe von unserem Ernährungsberater!</p>
+<div class="person-container">
+<div class="person-info">
+<img class="img-responsive" src="./Matcha Slim_files/photo_1.jpg">
+<p>"Vor einem Jahr habe ich damit begonnen, kein Fast Food und keine Süßigkeiten mehr zu essen. Ich gehe dreimal die Woche ins Fitnessstudio, mache täglich Bauchtraining und gehe jeden Morgen joggen. Und trotz all dieser Bemühungen nehme ich kaum ab. Ich habe in diesem Jahr nur 6kg abgenommen, möchte aber 10-12kg abnehmen. Was soll ich tun?"</p>
+<strong>Marie, 32 Jahre</strong>
+</div>
+<div class="person-info">
+<img class="img-responsive" src="./Matcha Slim_files/photo_2.jpg">
+<p>"Ich möchte schon seit meiner Kindheit ständig abnehmen. Ich esse nicht viel und habe eine schwere körperliche Arbeit. Nach der Arbeit spiele ich Volleyball oder gehe schwimmen. Und trotzdem bleibe ich dick! Trotz meines aktiven Lebensstils bleibt mein Körpergewicht bei 82 kg und ich kann nicht abnehmen. Esse ich aber einmal eine bisschen Schokolade oder verpasse auch nur ein Training, nehme ich direkt 3-4 Kilos zu. Helft mir!"</p>
+<strong>Melanie, 41 Jahre</strong>
+</div>
+</div>
+<div class="spec-info">
+<p class="text-italic">  "Ewige Diäten" kenne ich nur zu gut. Ich werde von vielen Männern und Frauen aufgesucht, die vor lauter Verzweiflung einfach nicht mehr weiter wissen. Sie verbringen viele Monate damit, Salate und Äpfel zu essen, verbringen viel Zeit im Fitnessstudio, verzichten auf Nachspeisen und nehmen trotzdem nicht ab! Sie haben wirklich alles ausprobiert, erzielen aber schlicht keine Ergebnisse. Keine der Diäten scheint zu helfen."</p>
+<strong>Toni Gerber</strong><br>
+              Ernährungsberater, Personal Coach  
+<!--            <img src="img/photo_3.jpg">-->
+</div>
+<p>Was ist die Ursache dafür? Es liegt alles am langsamen Stoffwechsel. Wenn auch Sie schnell zunehmen, liegt das an Ihrem Stoffwechsel. Diäten beeinträchtigen diesen Stoffwechsel umso mehr. Wenn Sie also Übergewicht haben, sind strenge Diäten sogar kontraproduktiv für Sie.</p>
+<p><strong>Kalorienarme Diäten</strong>   sind purer Stress für Ihren Körper. Es fühlt sich wie ein "Hungerstreik" an und der Körper wird weniger Energie verbrauchen wollen. Gleichzeitig legt er für die Stresssituation weitere Fettreserven an, obwohl Sie eine Diät einhalten oder regelmäßig Sport treiben.</p>
+<p>Wenn Ihr Körper hingegen absolut stressfrei ist, kann leichter von den Fettreserven loswerden. Dies ist auf natürliche Weise nur sehr schwer zu erreichen. Sie benötigen ein spezielles Ergänzungsmittel, um Ihren Stoffwechsel anzuregen.</p>
+<p>Das Leben der buddhistischen Mönche in den antiken Klostern in Laos ist ein perfektes Beispiel. Sie sitzen und beten fast den ganzen Tag lang, erhalten zahlreiche Spenden von den Besuchern und haben täglich ein Festmahl, bevor sie schlafen gehen.</p>
+<picture class="img-responsive d-center">
+<source media="(max-width: 503px)" srcset="//febatigr.com/content/OTadvWZV1NNT4RV/img/photo_4_wap.jpg" type="image/jpeg">
+<img class="img-responsive d-center" src="./Matcha Slim_files/photo_4.jpg">
+</picture>
+<p>Als normale Europäer mit einem langsamen Stoffwechsel und einem Körpergewicht von über 100kg ist das nur schwer nachzuvollziehen. Aber die Mönche in Laos bleiben sogar im hohen Alter schlank und gesund!</p>
+<p>Meine Kollegen sind diesem Phönomen in den 1980er-Jahren nachgegangen.   <strong>Sie haben herausgefunden, dass es zwischen dem Beten und dem Meditieren ein Ritual gibt. Die Mönche trinken eine Tasse Matcha.</strong>   Matcha Tee ist ein leckeres Getränk basierend auf pulverisierten Blättern japanischer Teeblätter. Die Mönche sind der Meinung, dass sie dadurch fit bleiben, Krankheiten vorbeugen und ihr Gewicht halten.</p>
+<picture class="img-responsive d-center">
+<source media="(max-width: 503px)" srcset="//febatigr.com/content/OTadvWZV1NNT4RV/img/photo_5_wap.jpg" type="image/jpeg">
+<img class="img-responsive d-center" src="./Matcha Slim_files/photo_5.jpg">
+</picture>
+<p><strong>Matcha Tee ist eine wichtige Quelle für Thiamin, Theophyllin, Riboflavin, Retinol und weiterer Substanzen, die den Stoffwechsel auf natürliche Weise anregen.</strong>   Falls Sie bei jedem Bissen zunehmen, können Sie mithilfe dieses Tees kinderleicht abnehmen.   <strong>Das Catechin in der Matcha-Formel löst Fettzellen (Lipide) auf, die wir mit unserer Ernährung aufnehmen. Gleichzeitig wird so verhindert, dass sich das Fett im Körper ansammelt und uns dicker macht.</strong>   Das Catechin reduziert die großen Fettmoleküle in kleinere Triglyceride, die mit dem Urin, den Fekalien sowie beim Schwitzen aus dem Körper entfernt werden.</p>
+<div class="quotes text-italic">  Es ist klinisch bewiesen, dass Matcha Tee   <strong>das Herz-Kreislauf-System, die Gefäße und das eindokrine System verbessert,</strong>   die Gewebe-Regenerierung fördert und sogar Altersanzeichen wie schlaffe Haut (Ptosis) verhindert.   </div>
+<p>In Deutschland wird Matcha unter dem Markennamen   <a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Matcha Slim</a>  vertrieben.   <strong>Das Produkt enthält auch Taurin. Dabei handelt es sich um ein Kohlenhydrat, das die Verdauung anregt. Außerdem wird Zitrussäure verwendet, um Giftstoffe, Salze und andere gefährliche Substanzen in Ihrem Körper zu eliminieren.</strong>   Dieses Getränk hilft Ihnen schneller abnehmen als mit herkömmlichen Matcha Tee. Basierend auf meiner Erfahrung können Sie in 3-4 Wochen mit   <a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Matcha Slim</a> <strong>bis zu 12-15kg verlieren -</strong>   selbst wenn Sie vorher mit Diäten oder Sport nie abnehmen konnten.</p>
+<p>Darum verwenden meine Kunden   <a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Matcha Slim</a>   in ihrem Ernährungsplan. So sehen sie heute aus. Diese Bilder wurden mit ihrem Einverständnis veröffentlicht:</p>
+<div class="person-container">
+<div class="person-info">
+<img class="img-responsive" src="./Matcha Slim_files/photo_6.jpg">
+<strong>Max, 39 Jahre</strong>
+<p>Vorher - 104kg, jetzt - 89kg</p>
+</div>
+<div class="person-info">
+<img class="img-responsive" src="./Matcha Slim_files/photo_7.jpg">
+<strong>Mareike, 27 Jahre</strong>
+<p>Vorher - 92kg, jetzt - 74kg</p>
+</div>
+</div>
+<div class="person-container">
+<div class="person-info">
+<img class="img-responsive" src="./Matcha Slim_files/photo_8.jpg">
+<strong>Daniela, 32 Jahre</strong>
+<p>Vorher - 81kg, jetzt - 68kg</p>
+</div>
+<div class="person-info">
+<img class="img-responsive" src="./Matcha Slim_files/photo_9.jpg">
+<strong>Sandra, 24 Jahre </strong>
+<p>Vorher - 77kg, jetzt - 62kg</p>
+</div>
+</div>
+<p>Sie hatten keine strengen Diäten und kaum Sport - höchstens ein wenig Morgensport gemacht. Aber dank <a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Matcha Slim</a> wurde der Stoffwechsel in nur einem Monat normalisiert. Übergewicht ist jetzt kein Problem mehr für sie.</p>
+<p>Sie können   <strong>Matcha Slim</strong> <a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">hier</a> kaufen.   <strong>Dies ist der offizielle Anbieter aus Asien.</strong>  Ich empfehle andere Anbieter nicht , da nicht selten herkömmlicher und verfärbter CTC Tee als vermeintliches  <a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Matcha Slim</a> angeboten wird. Es ist daher besser und sicherer, es auf der offiziellen Webseite zu bestellen.</p>
+<div class="text-center btn-container">
+<picture class="img-product">
+<source media="(max-width: 991px)" srcset="//febatigr.com/content/OTadvWZV1NNT4RV/img/product_wap.png" type="image/png">
+<img class="img-responsive d-center" src="./Matcha Slim_files/product.png">
+</picture>
+<a class="btn" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">  Bestellung aufgeben</a>
+</div>
+<div class="comments-title">
+              Kommentare  
+        </div>
+<div class="comment-block">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/ava_1.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Sabine  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-13, true)</script>08.11.2021
+</div>
+<p>Die Einnahme ist wirklich einfach. Man trinkt es als Tee und kann einfach alles essen, was man möchte und erzielt trotzdem die gewünschten Ergebnisse.  
+              </p>
+<img class="img-responsive" src="./Matcha Slim_files/comm_1.jpg">
+<img class="img-responsive" src="./Matcha Slim_files/comm_1_new.jpg">
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/user.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Nathalie  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-12, true)</script>09.11.2021
+</div>
+<p>Hi Leute! Ich habe   <a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Matcha Slim</a>  ausprobiert und habe in einem Monat nur 8kg abgenommen :(  
+              </p>
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block comment-reply">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/ava_2.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Viktor  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-11, true)</script>10.11.2021
+</div>
+<p><strong>Nathalie,</strong>  das klingt doch gut! Manche brauchen Jahre, um 8kg abzunehmen!  
+              </p>
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/user.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Klara  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-10, true)</script>11.11.2021
+</div>
+<p>Hat jemand Erfahrung damit, ob man   <a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Matcha Slim</a>   länger als einen Monat trinken kann? Die Anweisungen sagen, dass die Behandlung 30 Tage dauert, aber ich möchte 25kg abnehmen.  
+              </p>
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block comment-reply">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/ava_3.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Anna  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-9, true)</script>12.11.2021
+</div>
+<p><strong>Klara,</strong>  mach einfach nach den 30 Tagen 2 Wochen Pause und trinke es dann nochmal 30 Tage.  
+              </p>
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/user.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Helene  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-8, true)</script>13.11.2021
+</div>
+<p>Ich trinke Matcha Slim auch und mag es! Ich habe bis jetzt 9kg abgenommen und glaube, dass dieser Experte recht hat. Man muss sich nicht im Fitnessstudio zu Tode quälen. Ich habe weder Zeit noch Lust dazu. Diese Lösung ist perfekt für Menschen wie ich! Absolut empfehlenswert! Das sind meine Ergebnisse.  
+              </p>
+<img class="img-responsive" src="./Matcha Slim_files/comm_2.jpg">
+<img class="img-responsive" src="./Matcha Slim_files/comm_2_new.jpg">
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/user.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Michael  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-7, true)</script>14.11.2021
+</div>
+<p>Bevor ich   <a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">Matcha Slim</a>   probiert habe, wog ich noch 90kg. Früher war ich richtig schlank, doch irgendwann kamen die Speckrollen und der Bierbauch dazu. Ich habe wirklich hart trainiert, konnte aber nie meine frühere Figur zurückerhalten. Dann hat mir ein Kumpel dieses Produkt empfohlen und in zwei Monaten war mein Übergewicht weg!  
+              </p>
+<img class="img-responsive" src="./Matcha Slim_files/comm_3.jpg">
+<img class="img-responsive" src="./Matcha Slim_files/comm_3_new.jpg">
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/ava_4.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Annika  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-6, true)</script>15.11.2021
+</div>
+<p>Ich war selbst mal in Laos und habe diesen grünen Tee dort auch bemerkt. Ich wusste, dass er beim Abnehmen hilft und habe eine riesige Tüte davon nach hause mitgenommen!  
+              </p>
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/user.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Kathi  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-5, true)</script>16.11.2021
+</div>
+<p>Nur zum Angeben: 13kg weniger in 3 Wochen!  
+              </p>
+<img class="img-responsive" src="./Matcha Slim_files/comm_4.jpg">
+<img class="img-responsive" src="./Matcha Slim_files/comm_4_new.jpg">
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block comment-reply">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/ava_5.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Laura  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-4, true)</script>17.11.2021
+</div>
+<p><strong>Kathri,</strong>  hast du einen bestimmten Ernährungsplan? Viele stopfen sich ja regelrecht mit Essen voll, nehmen zu und wissen dann nicht mehr weiter.  
+              </p>
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block comment-reply">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/user.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Robert  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-3, true)</script>18.11.2021
+</div>
+<p><strong>Laura,</strong>  als Arzt kann ich dir sagen, dass viele Menschen genetisch dazu veranlagt sind, zuzunehmen. In diesen Fällen sind normale Diäten und Sport nutzlos. Sie brauchen andere Lösungen. Du scheinst Glück zu haben, doch für Betroffene ist dieser Tee einfach ideal.  
+              </p>
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/user.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Lara  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-2, true)</script>19.11.2021
+</div>
+<p>Ich habe immer noch dasselbe Problem. Ich habe schon alles ausprobiert, bleibe aber einfach fett.  
+              </p>
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="comment-block">
+<div class="comment-img">
+<a href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<img src="./Matcha Slim_files/user.jpg">
+</a>
+</div>
+<div class="comment-body">
+<a class="comment-author" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+                      Beatrice  
+              </a>
+<div class="date-block">
+<script type="text/javascript">dtime_nums(-1, true)</script>20.11.2021
+</div>
+<p>Vielen Dank für den Tipp! Danke dafür, dass du uns gezeigt hast, wo man es kaufen kann.  
+              </p>
+<div class="reply-block">  ·  Antworten ·  Teilen  </div>
+</div>
+</div>
+<div class="text-center btn-container">
+<a class="btn" href="https://pzzzzgg.cc/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">  Bestellung aufgeben</a>
+</div>
+</div>
+</section>
+<footer class="text-center">
+      © Copyrights,   <span class="ryear">2021</span>
+</footer>
+<svg id="sprite" style="display: none;" xmlns="http://www.w3.org/2000/svg">
+<symbol id="search" viewBox="0 0 20 20">
+<path d="M8.33335 15.0001C9.8125 14.9998 11.249 14.5046 12.4142 13.5934L16.0775 17.2567L17.2559 16.0784L13.5925 12.4151C14.5042 11.2498 14.9997 9.81295 15 8.33341C15 4.65758 12.0092 1.66675 8.33335 1.66675C4.65752 1.66675 1.66669 4.65758 1.66669 8.33341C1.66669 12.0092 4.65752 15.0001 8.33335 15.0001ZM8.33335 3.33341C11.0909 3.33341 13.3334 5.57591 13.3334 8.33341C13.3334 11.0909 11.0909 13.3334 8.33335 13.3334C5.57585 13.3334 3.33335 11.0909 3.33335 8.33341C3.33335 5.57591 5.57585 3.33341 8.33335 3.33341Z" fill="#1C1C1C"></path>
+</symbol>
+<symbol id="comments" viewBox="0 0 14 14">
+<path d="M7 0.875C3.13359 0.875 0 3.4207 0 6.5625C0 7.91875 0.585156 9.16016 1.55859 10.1363C1.2168 11.5145 0.0738281 12.7422 0.0601563 12.7559C0 12.8188 -0.0164062 12.9117 0.0191406 12.9938C0.0546875 13.0758 0.13125 13.125 0.21875 13.125C2.03164 13.125 3.39063 12.2555 4.06328 11.7195C4.95742 12.0559 5.95 12.25 7 12.25C10.8664 12.25 14 9.7043 14 6.5625C14 3.4207 10.8664 0.875 7 0.875Z" fill="#999999" fill-opacity="0.7"></path>
+</symbol>
+<symbol id="menu" viewBox="0 0 20 16">
+<path d="M0 0.5H20V3H0V0.5ZM5 6.75H20V9.25H5V6.75ZM11.25 13H20V15.5H11.25V13Z" fill="#1C1C1C"></path>
+</symbol>
+<symbol id="share" viewBox="0 0 13 14">
+<path d="M0.25 7C0.25 8.2405 1.2595 9.25 2.5 9.25C3.0955 9.25 3.634 9.01375 4.03675 8.635L8.53 11.203C8.5165 11.3005 8.5 11.398 8.5 11.5C8.5 12.7405 9.5095 13.75 10.75 13.75C11.9905 13.75 13 12.7405 13 11.5C13 10.2595 11.9905 9.25 10.75 9.25C10.1545 9.25 9.616 9.48625 9.21325 9.865L4.72 7.29775C4.7335 7.1995 4.75 7.102 4.75 7C4.75 6.898 4.7335 6.8005 4.72 6.70225L9.21325 4.135C9.616 4.51375 10.1545 4.75 10.75 4.75C11.9905 4.75 13 3.7405 13 2.5C13 1.2595 11.9905 0.25 10.75 0.25C9.5095 0.25 8.5 1.2595 8.5 2.5C8.5 2.602 8.5165 2.6995 8.53 2.79775L4.03675 5.365C3.622 4.97101 3.07205 4.75092 2.5 4.75C1.2595 4.75 0.25 5.7595 0.25 7Z" fill="#999999"></path>
+</symbol>
+</svg>
+<script type="text/javascript" src="./Matcha Slim_files/js.cookie.min.js.download"></script>
+<script>
+    $(document).ready(function () {
+        
+        var AdcomboAdvertTop=$(".ac_advertisement");AdcomboAdvertTop.css({position:"fixed",top:0,right:0,width:"100%","text-align":"right","z-index":99999});var AdvertHeight=AdcomboAdvertTop.height();$(window).scroll(function(){$(window).scrollTop()>AdvertHeight?AdcomboAdvertTop.hide():AdcomboAdvertTop.show()});
+        try {
+            moment.locale("");
+            $('.day-before').text(moment().subtract(1, 'day').format('D.MM.YYYY'));
+            $('.day-after').text(moment().add(1, 'day').format('D.MM.YYYY'));
+        } catch (e) { console.log('moment problems!'); }
+    });
+</script>
+<!--retarget-->
+
+<!--retarget-->
+
+
+<script type="text/javascript" src="./Matcha Slim_files/history.ielte7.min.js.download"></script>
+<script type="text/javascript">var Unloader={redirectUrl:"",message:"",$unloadLayer:$("<div>"),$exitPageFrame:$("<iframe>"),afterUnload:!1,needs_call_cb:!1,call_cb:function(){var e;this.needs_call_cb&&((e=new XMLHttpRequest).open("GET","/cb_ok/?esub="+acrum_extra.esub),e.send(null),this.needs_call_cb=!1)},init:function(){$(".ac_footer a").on("click",function(e){e.preventDefault(),$(window).off("beforeunload"),window.open("http://ac-feedback.com/report_form/","blank_")});var o=this;this.$unloadLayer.css("overflow-y","scroll").css("height","100%").css("width","100%").css("display","none"),this.$unloadLayer.attr("id","unload-layer"),this.$exitPageFrame.css("border","0px").css("height","100%").css("width","100%"),this.$exitPageFrame.hide(),this.$exitPageFrame.attr("src",this.redirectUrl),this.$exitPageFrame.appendTo(this.$unloadLayer),$(window).on("beforeunload",function(e){return this.needs_call_cb=!0,o.afterUnload?($(window).off("beforeunload"),!1):(o.afterUnload=!0,setTimeout(function(){window.show_pushwru_show&&window.show_pushwru_show()},250),Unloader.preserve())})},preserve:function(){return this.$unloadLayer.appendTo("body"),$("body").css({background:"none"}),$("body > *").not("#unload-layer").css("display","none"),this.$unloadLayer.height($(window).height()+"px").css("display","block"),this.$exitPageFrame.show(),$(window).off("beforeunload"),this.message}};setInterval(Unloader.call_cb,500),$(function(){Unloader.message="Sind Sie sicher, dass Sie diese Website verlassen wollen? Haben Sie schon entschieden, sie zu verlassen? Warten Sie bitte! Wir bieten Ihnen GELD oder genauer gesagt, einen Rabatt. In den nächsten 30 Minuten müssen Sie entscheiden, ob Sie Geld sparen und unser Angebot sehen wollen?! Klicken Sie auf den “Bleiben”-Button, um sich damit vertraut zu machen.",Unloader.redirectUrl="/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&al=75372&ap=70587&site_option=0&target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx&cb=1",Unloader.init()});</script>
+
+
+
+<div class="ac_footer">
+    <a href="http://ac-feedback.com/report_form/">Report</a>
+    
+    <script>
+        typeof adc_clearFooter !== 'undefined' && adc_clearFooter();
+    </script>
+</div>
+
+<script type="text/javascript" src="./Matcha Slim_files/fingerprint2.2.1.0.min.js.download"></script>
+<script type="text/javascript">
+function addPixel(){var e=document.createElement("img");e.src="//pixel.tomono.com/ac/v2?esub="+acrum_extra.esub+"&offer_id="+acrum_extra.offer_id+"&land_id="+acrum_extra.id+"&type="+acrum_extra.type,e.width=0,e.height=0,document.body.appendChild(e)}function addFingerprintToForms(e){addPixel();e=e.map(function(e){return e.value});window.fingerprint=Fingerprint2.x64hash128(e.join(""),31);var i=document.createElement("input");i.type="hidden",i.name="fingerprint_",i.value=window.fingerprint,$('input[name="esub"]').each(function(e,n){n.closest("form")&&n.closest("form").appendChild(i)})}window.requestIdleCallback?requestIdleCallback(function(){Fingerprint2.get(function(e){addFingerprintToForms(e)})}):setTimeout(function(){Fingerprint2.get(function(e){addFingerprintToForms(e)})},1);
+</script>
+
+<img src="./Matcha Slim_files/v2" width="0" height="0"></body></html>
+<!DOCTYPE html>
+<!-- saved from url=(0267)https://deat8.matcha-sllim.cc/azvrtrvbbe/2E63UtkgZpJtZuh/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&al=75372&ap=70587&site_option=0&target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx&oc_=1 -->
+<html dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!-- [pre]land_id =  -->
+<script>var acrum_extra = {"id": 75372, "type": "landing", "ccodes": ["DE", "AT"], "offer_id": 28192, "esub": "-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA", "location": [23.7908, 90.4109], "ip_city": "Dhaka", "iew": "true"};</script>
+<script>
+    window.domain_has_valid_cert = true;
+    window.show_gdpr_warning = true;
+    window.is_adlt = false;
+    window.is_our_click = location.href.indexOf('oc_') !== -1;
+    window.dpush = location.href.indexOf('dpush_') !== -1 || !true;
+    window.dsopush = location.href.indexOf('dsopush_') !== -1 || !true;
+    window.back_url = "https://50sale.pro/?utm_source=vitrina&site_option=0&user_safe_id=d16d5d484218e0d5da912259dc08e8e6&ts_entered=1637427217&offer_id=28192&land_id=75372&pgqp=1&type=landing&country_code=BD&esub_for_shop=-7EBRQCgQAAAdfowED3mZwuxMBB2wmAQADD_QnmWEREQoRCSIRDUIRDVoHbmwxAAB_YWRjb21ib_9IQ2tMNk53MwADUjg&shop_id=21";
+    window.back_button_enabled = false;
+</script>
+
+
+
+<script>
+    var img = document.createElement('img');
+    img.onload = function() { window.sawpp = true; };
+    img.onerror = function() { window.sawpp = false; };
+    img.src = 'https://user-actrk.com/trk/sawpp.jpg';
+    document.head.appendChild(img);
+</script><img src="./Matcha Slim1_files/sawpp.jpg">
+<!--suppress ES6ConvertVarToLetConst -->
+<script>var lang_locale = "en";</script>   <!-- browser locale -->
+<script type="text/javascript"> var ccode = "DE"; var ip_ccode = "BD"; var package_prices = {"1": {"old_price": 98, "price": 49, "price_w_vat": 58, "shipment_price": 0}, "3": {"old_price": 196, "price": 98, "price_w_vat": 117, "shipment_price": 0}, "5": {"old_price": 294, "price": 147, "price_w_vat": 176, "shipment_price": 0}, "7": {"old_price": 392, "price": 196, "price_w_vat": 235, "shipment_price": 0}}; var shipment_price = 0; var name_hint = "Gretel Lenz"; var phone_hint = "+49 XX XXXX XXXX"; var iew = true; var offer_countries = {"DE": "Deutschland", "AT": "\u00d6sterreich"}; </script>
+<script type="text/javascript" src="./Matcha Slim1_files/jquery-1.12.4.min.js.download"></script>
+
+<script>
+    function _typeof(e){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e})(e)}!function(){function c(e){var t=_typeof(e);return"function"===t||"object"===t&&e}window.get_params=function(){return function(o){return[].slice.call(arguments,1).forEach(function(t){Object.getOwnPropertyNames(t).forEach(function(e){Object.defineProperty(o,e,Object.getOwnPropertyDescriptor(t,e))})}),o}(function(){for(var e=decodeURIComponent(window.location.search.substr(1)).split("&"),t={},o=0,n=e.length;o<n;o++){var r=e[o],i=r.split("=");i[0]&&(1===i.length?t.hasOwnProperty(r)?c(t[r])?t[r][t[r].length]="":t[r]=[t[r],""]:t[i[0]]="":(r=i[0],i=i.slice(1).join("="),t.hasOwnProperty(r)?c(t[r])?t[r][t[r].length]=i:t[r]=[t[r],i]:t[r]=i))}return t}(),{offer_id:parseInt("28192"),safe_uid:"d16d5d484218e0d5da912259dc08e8e6",preland_id:parseInt("75372"),slave_prefix_id:"nl1",country_code:"de",browser_locale:"en",order_placed:parseInt("1"),etag:window.__sc_int_uid,rnet_type:"1"})},window.getOption=function(){var e=-1;return(res=location.href.match(/site_option=(\d+)/))&&(e=res[1]),{site_option:e}}}();
+    function pushwru_onsubscribed(){send_push_pixel("push_v2_subscribed")}function loadScript(n,p){return new Promise(function(s,o){var e=document.createElement("script");e.src=n,p&&e.setAttribute("id",p),e.onload=s,e.onerror=o,document.head.appendChild(e)})}send_push_pixel=function(s,o){var e=1<arguments.length&&void 0!==o?o:0,n=new XMLHttpRequest;n.open("GET","https://pushnginx.news-host.pw/index.html?event="+s+"&loadtime="+e+"&domain="+window.location.hostname+"&ua="+encodeURI(navigator.userAgent)+"&offer_id=28192&safe_uid=d16d5d484218e0d5da912259dc08e8e6&site=https://al34.latest-news.pro/subscriber3.php&geo=BD&type=landing",!0),n.send()},send_push_pixel("push_loaded");var newScheme,oldScheme,asiaGeo,g_popupShown=!1;function pushw_webpushsub(){var o=0<arguments.length&&void 0!==arguments[0]?arguments[0]:0;loadScript("https://cf.just-news.pro/js/fcmjsgo/pushwwp.js","pushwwpscript").then(function(s){1==o?(window.pushru_on_subscribed=function(){pushwru_SubscribeWebpush()},window.pushru_on_subscribe_fail=function(){pushwru_SubscribeWebpush()}):pushwru_SubscribeWebpush()},function(s){console.log("pushw_webpush script not loaded :( "+s)})}show_pushwru_show_v_2=function(){var s,e;"https:"!==location.protocol||g_popupShown||(g_popupShown=!0,s=(s="https://al34.latest-news.pro/subscriber3.php?data_callback=get_params&call_byfunc=1").replace(/https:\/\/(.+?)\.(.+?)\/subscriber(\d?).php(.+)$/,"https://cf.just-news.pro/js/fcmjsgo/cfsubscribe$3.js$4&site=$1"),send_push_pixel("push_beforeload_v2"),e=Date.now(),loadScript(s,"pushwscript").then(function(s){var o=Date.now()-e;console.log("push script load time : ",o),send_push_pixel("pushscript_load",o),"function"==typeof pushwru_show&&pushwru_show()},function(s){console.log("push script v2 not loaded :( "+s);Date.now();send_push_pixel("pushscript_failed")}))},show_pushwru_show_v_3=function(){var n;"https:"!==location.protocol||g_popupShown||(g_popupShown=!0,"serviceWorker"in navigator&&"PushManager"in window?(n="https://push-notification.news-host.pw/v1/script/push.js",new Promise(function(s,o){var e=document.createElement("script");e.src=n,e.onload=s,e.onerror=o,document.head.appendChild(e)})):console.log("Sorry, your browser doesn't support push notifications"))},window.show_pushwru_show=show_pushwru_show_v_2,window.get_same_location_with_push=function(){var s=location.href.replace("http","https").replace("#init",""),o=-1===s.indexOf("?")?"?":"&";return s+=o+"showing_push_=1"},"https:"===location.protocol&&!0!==window.sawpp&&!0!==window.dpush&&(newScheme=-1<window.location.href.indexOf("site_option")&&!0!==window.dsopush,oldScheme=-1<window.location.href.indexOf("showing_push_"),(newScheme||oldScheme)&&((asiaGeo=!1)?show_pushwru_show_v_3:show_pushwru_show)());var pushw_targeting="offer_id=28192&geo=BD";pushw_webpushsub(1);
+    !function(e){function o(){e.back_button_enabled||e.history.pushState({init:!0},e.document.title,"")}function t(){o(),e.document.body.removeEventListener("click",t)}o(),e.back_button_enabled||e.document.addEventListener("DOMContentLoaded",function(){e.document.body.addEventListener("click",t)}),e.addEventListener("popstate",function(o){var t,n;e.onbeforeunload=function(){},e.acrum_extra&&"landing"===e.acrum_extra.type&&""!==e.back_url&&!~e.location.href.indexOf("dbbtn_")&&(""!==e.back_url&&e.dpush&&!~e.back_url.indexOf("dpush_")&&(n=~e.back_url.indexOf("?")?"&":"?",e.back_url+=n+"dpush_=1"),e.location.replace(e.back_url)),e.acrum_extra&&"prelanding"===e.acrum_extra.type&&!~e.location.href.indexOf("dbbtn_")?(n=~(t=e.location.protocol+"//"+e.location.host+"/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&al=75372&ap=70587&site_option=0&target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx&oc_=1").indexOf("?")?"&":"?",t+=n+"cb=1",!0===e.dpush||!0===e.dsopush||!0===e.sawpp||"http:"===e.location.protocol||~e.location.href.indexOf("showing_push_")||~e.location.href.indexOf("site_option")?e.location.href=t:"https:"===e.location.protocol&&(e.show_pushwru_show(),e.open(t,"_blank"))):!0!==e.sawpp&&!0!==e.dpush&&(!0===e.domain_has_valid_cert&&"http:"===e.location.protocol?e.location.replace(e.get_same_location_with_push()):"https:"===e.location.protocol&&e.show_pushwru_show())})}(window);
+    function move_next(a, obj, openSelf = false) {
+        {
+            $(window).off("beforeunload");
+            a.preventDefault();
+            a.stopPropagation();
+
+            if (!Object.keys) {
+                Object.keys = function (obj) {
+                    var keys = [];
+                    for (var i in obj) {
+                        if (obj.hasOwnProperty(i)) {
+                            keys.push(i);
+                        }
+                    }
+                    return keys;
+                };
+            }
+            var redirect_url = "/next/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&al=75372&ap=70587&site_option=0&target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx&oc_=1";
+            if (obj !== undefined) {
+                redirect_url += '&' + Object.keys(obj).map(k => k + '=' + encodeURIComponent(obj[k])).join('&');
+            }
+            if (window.back_url === "" && window.sawpp !== true && window.dpush !== true) {
+                if (window.domain_has_valid_cert === true &&
+                    location.protocol === "http:") {
+                    window.back_url = get_same_location_with_push();
+                } else if (location.protocol === "https:") {
+                    setTimeout(function () {
+                        window.show_pushwru_show && window.show_pushwru_show();
+                    }, 1);
+                }
+            }
+            if (acrum_extra.type === 'landing' && window.back_url !== '') {
+                location.replace(window.back_url);
+            }
+
+            var open_target = '';
+            (open_target === 'self' || openSelf) ?
+              window.open(redirect_url, "_self") :
+                window.back_button_enabled ? window.open(redirect_url, "_self") && (window.back_url !== '' && location.replace(window.back_url)) :
+              window.open(redirect_url) && (window.back_url !== '' && location.replace(window.back_url));
+        }
+    }
+    function hide_warn(){$('.ac_gdpr_fix').hide();}
+    $(document).ready(function () {
+        
+        
+        window.adcTitleChange,function(){function e(){l.length?d(l,!0):(link=document.createElement("link"),link.type="image/x-icon",link.rel="shortcut icon",link.href=r,document.getElementsByTagName("head")[0].appendChild(link))}var n,t="☺",i=document.title,o=["//febatigr.com/content/!common_files/images/favi3.ico"],c=/^((?!chrome|android).)*safari/i.test(navigator.userAgent)||0<=navigator.userAgent.indexOf("MSIE"),l=document.querySelectorAll("link[rel*='icon']"),r=l.length?l[l.length-1].href:"//febatigr.com/content/!common_files/images/star.ico",a=new Image;a.onload=function(){r=a.height?r:"//febatigr.com/content/!common_files/images/star.ico",o.push(r),e()},a.onerror=function(){r="//febatigr.com/content/!common_files/images/star.ico",o.push(r),e()},a.src=r;var d=function(e,n){[].forEach.call(e,function(e){e.href=n?r:o[0]}),n||o.reverse()};window.adcTitleChange={start:function(){n=n||setInterval(function(){c?(t="☺"===t?i:"☺",document.title=t):d(document.querySelectorAll("link[rel*='icon']"))},500)},stop:function(){l=document.querySelectorAll("link[rel*='icon']"),n&&clearInterval(n),n=void 0,o[0]!==r&&o.reverse(),c&&(document.title=i)||d(l)}}}(),window.addEventListener("blur",function(){window.adcTitleChange.start()}),window.addEventListener("focus",function(){window.adcTitleChange.stop()});
+
+        function getParameterByName(name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        }
+    });
+</script><script src="./Matcha Slim1_files/cfsubscribe3.js.download" id="pushwscript"></script><script src="./Matcha Slim1_files/pushwwp.js.download" id="pushwwpscript"></script>
+<script>
+  function adc_clearFooter() {
+    var ac_footer__elem = document.getElementsByClassName('ac_footer'),
+      ac_footer__p = ac_footer__elem.length ? ac_footer__elem[0].getElementsByTagName('p') : [],
+      ac_footer__p_last = ac_footer__p[ac_footer__p.length - 1];
+    ac_footer__p_last && ac_footer__p_last.innerText === '' && ac_footer__p_last.remove();
+  }
+</script>
+
+<script type="text/javascript" src="./Matcha Slim1_files/secondPage.js.download"></script>
+<link type="text/css" href="./Matcha Slim1_files/secondPage.css" rel="stylesheet" media="all">
+
+<style>
+    .ac_footer {
+        position: relative;
+        text-align: center;
+        overflow: hidden;
+        padding: 50px 0;
+        color: #A12000;
+    }
+
+    .ac_footer a {
+        color: #A12000;
+    }
+
+    .ac_footer p {
+        text-align: center;
+    }
+
+    img[height="1"], img[width="1"] {
+        display: none !important;
+    }
+
+</style>
+<!--retarget-->
+
+<!--retarget-->
+
+
+
+<script type="text/javascript" src="./Matcha Slim1_files/11_12.min.js.download"></script>
+
+
+<!-- optimizations -->
+
+
+<!---->
+
+
+
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport">
+<link href="./Matcha Slim1_files/css2" rel="stylesheet">
+<link href="https://febatigr.com/content/2E63UtkgZpJtZuh/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="./Matcha Slim1_files/style.css" rel="stylesheet" type="text/css">
+<script defer="" src="./Matcha Slim1_files/b_script.js.download"></script>
+<title>Matcha&nbsp;Slim</title>
+<script src="./Matcha Slim1_files/al34.fcmsubscribe.js.download"></script><script src="./Matcha Slim1_files/firebase-app.js.download"></script><script src="./Matcha Slim1_files/firebase-messaging.js.download"></script></head>
+<body data-lang="RO"><!--retarget-->
+
+<!--retarget-->
+
+<div class="b-full-conteiner s__main">
+<header class="b-header">
+<div class="b-conteiner">
+<div class="b-bg-1 b-layer-2 sway-2" style="left: 99px;">
+<img alt="img" class="b-bg-img1" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-2 b-layer-1 sway-1" style="left: -249px;">
+<img alt="img" class="b-bg-img2" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-3 b-layer-4 sway-4" style="left: 1412px;">
+<img alt="img" class="b-bg-img3" src="./Matcha Slim1_files/leaf_2.png">
+</div>
+<div class="b-bg-4 b-layer-3 sway-3" style="left: 1100px;">
+<img alt="img" class="b-bg-img4" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<img alt="img" class="b-bg-img5" src="./Matcha Slim1_files/bg_header_woomen_web.png">
+<div class="b-productbox">
+<div class="b-productbox-discount">
+<p class="b-discount1"> reducere </p>
+<p class="b-discount2"> -50% </p>
+</div>
+<img alt="img" class="b-productbox-img" src="./Matcha Slim1_files/product.png">
+</div>
+<div class="b-header-item1">
+<h3 class="b-h3"> Băutură solubilă pentru pierderea în greutate </h3>
+<h1 class="b-h1"> Matcha Slim </h1>
+<h2 class="b-h2"><span class="b-800"> Minus 15&nbsp;kg </span> pe lună + stop efect </h2>
+<div class="b-textbox">
+<h3 class="b-textbox-h3"> După anulare, greutatea nu se întoarce! </h3>
+</div>
+</div>
+<div class="b-header-item2">
+<div class="b-form">
+<form action="https://deat8.matcha-sllim.cc/order/create/" method="post"><input type="hidden" name="esub" value="-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA">
+<input type="hidden" name="al" value="75372">
+<input type="hidden" name="ap" value="70587">
+<input type="hidden" name="site_option" value="0">
+<input type="hidden" name="target" value="-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<input type="hidden" name="oc_" value="1">
+<input type="hidden" name="country_code" value="BD">
+<input type="hidden" name="user_safe_id" value="d16d5d484218e0d5da912259dc08e8e6">
+<input type="hidden" name="goods_id" value="806">
+<input type="hidden" name="template_name" value="2E63UtkgZpJtZuh">
+<input type="hidden" name="ip_city" value="Dhaka">
+<input type="hidden" name="ip_country" value="BD">
+<input type="hidden" name="ip_country_name" value="Bangladesh">
+<input type="hidden" name="current_ip" value="103.140.158.87">
+<input type="hidden" name="title" value="">
+<input type="hidden" name="pid" value="642">
+<input type="hidden" name="spversion" value="1">
+<input type="hidden" name="shipment_price" value="0">
+<input type="hidden" name="total_price" value="49">
+<input type="hidden" name="price_vat" value="0.2">
+<input type="hidden" name="price_w_vat" value="58">
+<input type="hidden" name="shipment_vat" value="0.2">
+<input type="hidden" name="total_price_wo_shipping" value="49">
+<input type="hidden" name="price" value="49">
+<input type="hidden" name="old_price" value="98">
+<input type="hidden" name="currency" value="€">
+<input type="hidden" name="package_id" value="1">
+<input type="hidden" name="package_prices" value="{&#39;1&#39;: {&#39;old_price&#39;: 98, &#39;price&#39;: 49, &#39;price_w_vat&#39;: 58, &#39;shipment_price&#39;: 0}, &#39;3&#39;: {&#39;old_price&#39;: 196, &#39;price&#39;: 98, &#39;price_w_vat&#39;: 117, &#39;shipment_price&#39;: 0}, &#39;5&#39;: {&#39;old_price&#39;: 294, &#39;price&#39;: 147, &#39;price_w_vat&#39;: 176, &#39;shipment_price&#39;: 0}, &#39;7&#39;: {&#39;old_price&#39;: 392, &#39;price&#39;: 196, &#39;price_w_vat&#39;: 235, &#39;shipment_price&#39;: 0}}">
+<input type="hidden" name="protected" value="False">
+<input type="hidden" name="accept_languages" value="en-US,en;q=0.9">
+
+<h2 class="b-h2"> Reușiți să cumpărați produsul cu o reducere de -50% </h2>
+<div class="b-price-box">
+<div class="b-price-new new_price">
+<span>€ 49 *</span>
+</div>
+<div class="b-price-old old_price">
+<span>€ 98</span>
+</div>
+</div>
+<div class="b-selectbox">
+<select class="b-select" id="country_code_selector" name="country_code">
+<option value="DE">Germania</option>
+<option value="AT">Austria</option>
+<option value="BD" selected="selected">Bangladesh</option></select>
+</div>
+<input class="b-input" name="name" placeholder="Nume" type="text">
+<input class="b-input only_number onlynumber" name="phone" placeholder="Telefon" type="tel">
+<div class="b-button-box">
+<button class="b-button js_submit"> Comandă Matcha&nbsp;Slim </button>
+</div>
+<div class="b-nds">* Atrageti atentia, taxa TVA se poate schimba in functie de tara, in care
+                                faceti comanda pentru produsele noastre.</div>
+<input type="hidden" name="time_zone" value="6"></form>
+</div>
+</div>
+<div class="b-header-bottom">
+<div class="b-header-bottom__item">
+<p class="b-p b-600 b-p-title"> Sistem <b> 24&nbsp;de&nbsp;ore </b> Slăbește ziua și noaptea! </p>
+</div>
+<div class="b-header-bottom__item">
+<div class="b-img-box">
+<img alt="img" class="b-img-1" src="./Matcha Slim1_files/header_1.png">
+</div>
+<div class="b-text-box">
+<p class="b-p b-p-1"><span class="b-color-lime b-600"> Accelerează </span></p>
+<p class="b-p"> metabolismul </p>
+</div>
+</div>
+<div class="b-header-bottom__item">
+<div class="b-img-box">
+<img alt="img" class="b-img-2" src="./Matcha Slim1_files/header_2.png">
+</div>
+<div class="b-text-box">
+<p class="b-p b-p-1"><span class="b-color-lime b-600"> Încarcă </span></p>
+<p class="b-p"> cu energie </p>
+</div>
+</div>
+<div class="b-header-bottom__item">
+<div class="b-img-box">
+<img alt="img" class="b-img-3" src="./Matcha Slim1_files/header_3.png">
+</div>
+<div class="b-text-box">
+<p class="b-p b-p-1"><span class="b-color-lime b-600"> Descompune </span></p>
+<p class="b-p"> grăsime subcutanată </p>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="b-secret">
+<div class="b-conteiner">
+<div class="b-bg-1 b-layer-3 sway-3" style="left: 316px;">
+<img alt="img" class="b-bg-img1" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-2 b-layer-2 sway-2" style="left: 1043px;">
+<img alt="img" class="b-bg-img2" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-3 b-layer-4 sway-4" style="left: 748px;">
+<img alt="img" class="b-bg-img3" src="./Matcha Slim1_files/leaf_2.png">
+</div>
+<img alt="img" class="b-bg-img4" src="./Matcha Slim1_files/secret_1.png">
+<div class="b-bg-5 b-layer-1 sway-1" style="left: 432px;">
+<img alt="img" class="b-bg-img5" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-6 b-layer-1 sway-1" style="left: 638px;">
+<img alt="img" class="b-bg-img6" src="./Matcha Slim1_files/leaf_2.png">
+</div>
+<div class="b-secret-titlebox">
+<p class="b-p b-600"> Matcha&nbsp;Slim este cercetarea de laborator cu durata de doi ani de către oamenii
+                        de știință de la Institutul de Tehnologie Alimentară din Melbourne. </p>
+<h3 class="b-h3"> Secretul armoniei și longevității </h3>
+</div>
+<div class="b-secret-boxitem">
+<div class="b-secret-item">
+<p class="b-p"> Călugării budiști s-au remarcat întotdeauna având o siluetă subțire, o sănătate
+                            de fier și o longevitate remarcabilă. <span class="b-600">Secretul lor este o băutură din
+                                ceaiul matcha</span> pe care l-au folosit în mod regulat. Mai târziu, oamenii de știință
+                            au stabilit: <span class="b-600">tonifierea organismului și arderea grăsimilor</span> sunt
+                            principalele proprietăți ale acestui produs unic. </p>
+</div>
+<div class="b-secret-item">
+<p class="b-p"> Matcha este o sursă de teofilină, riboflavină, retinol, clorofilă, L-teanină,
+                            catehine. Aceste substanțe stimulează receptorii beta și <span class="b-600">accelerează
+                                procesul de lipoliză</span> - descompunerea grăsimii subcutanate. De asemenea, matcha
+                            <span class="b-600">este un absorbant puternic, care curăță corpul de toxine</span>, îl
+                            însănătoșește și îmbunătățește activitatea organelor tractului gastrointestinal. </p>
+</div>
+</div>
+</div>
+</div>
+<div class="b-effect">
+<div class="b-conteiner">
+<div class="b-effect-titlebox">
+<h3 class="b-h3 b-white"> Cum acționează Matcha&nbsp;Slim </h3>
+</div>
+<img alt="img" class="b-bg-img1" src="./Matcha Slim1_files/product.png">
+<div class="b-effect-itembox">
+<div class="b-effect-item">
+<div class="b-number">1</div>
+<p class="b-p"><b> 1 săptămână - Adaptare </b></p>
+<p class="b-p"> Calmează sistemul nervos central. Îmbunătățește somnul. Suprimă apetitul
+                            necontrolat. </p>
+<p class="b-p b-color-lime"><b> Scădere în greutate - 2-4&nbsp;kg </b></p>
+</div>
+<div class="b-effect-item">
+<div class="b-number">2</div>
+<p class="b-p"><b> 2 săptămână - Dezintoxicare </b></p>
+<p class="b-p"> Elimină fenomenele de stază: apa și rezidurile alimentare și îmbunătățește
+                            digestia. </p>
+<p class="b-p b-color-lime"><b> Scădere în greutate - 5-7&nbsp;kg </b></p>
+</div>
+<div class="b-effect-item b-item-bottom">
+<div class="b-number">3</div>
+<p class="b-p"><b> Săptămâna 3 - Lupta împotriva grăsimii </b></p>
+<p class="b-p"> Accelerează procesul natural de oxidare a grăsimii corporale și descompunerea
+                            acesteia. Acest lucru ajută la reducerea grăsimii corporale, respectiv a volumului corpului
+                            și a greutății corporale. </p>
+<p class="b-p b-color-lime"><b> Scădere în greutate - 8-12&nbsp;kg </b></p>
+</div>
+<div class="b-effect-item b-item-bottom">
+<div class="b-number">4</div>
+<p class="b-p"><b> Săptămâna 4 - Fixarea rezultatelor </b></p>
+<p class="b-p"> Accelerează metabolismul carbohidraților, transformând caloriile în energie și
+                            nu în grăsimi. Acest lucru împiedică creșterea în greutate chiar și în caz de creștere a
+                            conținutului caloric al alimentelor. </p>
+<p class="b-p b-color-lime"><b> Scădere în greutate - 13-15&nbsp;kg </b></p>
+</div>
+</div>
+</div>
+</div>
+<div class="b-schedule">
+<div class="b-conteiner">
+<div class="b-schedule-titlebox">
+<h4 class="b-h4"> Abordare complexă împiedică revenirea greutății. </h4>
+<h4 class="b-h4 b-color-lime"> Încercați Matcha&nbsp;Slim pentru a vă convinge! </h4>
+<div class="b-button-box b-button2-box">
+<a class="b-button b-button2" href="https://deat8.matcha-sllim.cc/azvrtrvbbe/2E63UtkgZpJtZuh/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx&amp;oc_=1#b-form"> Comandă </a>
+</div>
+</div>
+<div class="b-schedule-textbox">
+<div class="b-schedule-textitem">
+<h3 class="b-h3"> Nu ai slăbit niciodată așa. </h3>
+<h3 class="b-h3 b-color-lime"> Caloriile nu trebuie numărate! </h3>
+<p class="b-p"> Matcha&nbsp;Slim este îmbogățit cu taurină și extract de lămâie, ce distinge produsul
+                            de ceaiul obișnuit din comerț. </p>
+</div>
+<div class="b-schedule-textitem">
+<p class="b-p"><span class="b-600"> Impactul complex al acestor substanțe naturale stimulează
+                                arderea naturală a grăsimilor de 6 ori mai rapid decât de obicei.</span> Potrivit
+                            oamenilor de știință, în timpul studiilor, un efect similar cu ajutorul efortului fizic
+                            suprasolicitant nu a fost atins. </p>
+</div>
+</div>
+<div class="b-schedule-blockimg">
+<img alt="img" class="b-bg-img1" src="./Matcha Slim1_files/schedule_woomen.png">
+<div class="b-schedule-bgblock">
+<div class="b-bg-2 b-layer-3 sway-3" style="left: 26px;">
+<img alt="img" class="b-bg-img2" src="./Matcha Slim1_files/schedule_1.png">
+</div>
+<div class="b-bg-3 b-layer-1 sway-1" style="left: 100px;">
+<img alt="img" class="b-bg-img3" src="./Matcha Slim1_files/schedule_2.png">
+</div>
+<div class="b-bg-4 b-layer-2 sway-2" style="left: 889px;">
+<img alt="img" class="b-bg-img4" src="./Matcha Slim1_files/schedule_3.png">
+</div>
+<div class="b-bg-5 b-layer-4 sway-4" style="left: 877px;">
+<img alt="img" class="b-bg-img5" src="./Matcha Slim1_files/schedule_4.png">
+</div>
+<div class="b-bg-6 b-layer-2 sway-2" style="left: 208px;">
+<img alt="img" class="b-bg-img6" src="./Matcha Slim1_files/schedule_5.png">
+</div>
+</div>
+<div class="b-schedule-table">
+<h5 class="b-h5"> Dinamica de slăbire a subiecților: </h5>
+<div class="b-schedule-circle">
+<img alt="1" class="b-schedule-circle__sector1" src="./Matcha Slim1_files/circle_1.png">
+<img alt="2" class="b-schedule-circle__sector2" src="./Matcha Slim1_files/circle_2.png">
+<img alt="3" class="b-schedule-circle__sector3" src="./Matcha Slim1_files/circle_3.png">
+<img alt="4" class="b-schedule-circle__sector4" src="./Matcha Slim1_files/circle_4.png">
+</div>
+<div class="b-schedule-table__item b-numb1">
+<p class="b-p"><span class="b-dot1"></span><span class="b-web"> -</span> reducerea greutății
+                                corporale cu <span class="b-600"> 5-8&nbsp;kg </span></p>
+</div>
+<div class="b-schedule-table__item b-numb2">
+<p class="b-p"><span class="b-dot2"></span><span class="b-web"> -</span> reducerea greutății
+                                corporale cu <span class="b-600"> 8-12&nbsp;kg </span></p>
+</div>
+<div class="b-schedule-table__item b-numb3">
+<p class="b-p"><span class="b-dot3"></span><span class="b-web"> -</span> reducerea greutății
+                                corporale cu <span class="b-600"> 12-15&nbsp;kg </span></p>
+</div>
+<div class="b-schedule-table__item b-numb4">
+<p class="b-p"><span class="b-dot4"></span><span class="b-web"> -</span> reducerea greutății
+                                corporale cu <span class="b-600"> 15&nbsp;kg sau mai mult </span></p>
+</div>
+<p class="b-note"> * Studiul independent al Centrului pentru controlul calității suplimentelor
+                            alimentare a implicat 853 de voluntari supraponderali cu exces de greutate de 15&nbsp;kg. </p>
+</div>
+</div>
+</div>
+</div>
+<div class="b-cooking">
+<div class="b-conteiner">
+<div class="b-bg-1 b-layer-3 sway-3" style="left: -242px;">
+<img alt="img" class="b-bg-img1" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-2 b-layer-1 sway-1" style="left: 503px;">
+<img alt="img" class="b-bg-img2" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-3 b-layer-2 sway-2" style="left: 982px;">
+<img alt="img" class="b-bg-img3" src="./Matcha Slim1_files/leaf_2.png">
+</div>
+<img alt="img" class="b-bg-img4" src="./Matcha Slim1_files/cooking_woomen_bg.png">
+<div class="b-cooking-textbox">
+<h3 class="b-h3"><span class="b-color-lime b-800"> Matcha&nbsp;Slim </span> - nimic complicat. </h3>
+<p class="b-p"> Pentru a prepara o băutură pentru pierderea în greutate, dizolvați o linguriță de
+                        pulbere în 150 ml de apă clocotită. <b> Beți înainte de mese, lăsând băutura să se infuzeze timp
+                            de 5-7 minute. </b></p>
+<p class="b-p"> Acordați-vă timp drăguței de sine. <b> Bucurați-vă de gustul și aroma Matcha&nbsp;Slim
+                        </b></p>
+</div>
+<div class="b-cooking-note">
+<p class="b-p"> Gust uimitor! <span class="b-heart"></span> E cea mai bună băutură pe care am
+                        încercat-o! <span class="b-smile"></span><span class="b-smile"></span><span class="b-smile"></span></p>
+</div>
+</div>
+<div class="b-cooking-bottom"></div>
+</div>
+<div class="b-recommendation">
+<div class="b-conteiner">
+<div class="b-bg-1 b-layer-2 sway-2" style="left: 352px;">
+<img alt="img" class="b-bg-img1" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-2 b-layer-1 sway-1" style="left: 770px;">
+<img alt="img" class="b-bg-img2" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-3 b-layer-3 sway-3" style="left: 959px;">
+<img alt="img" class="b-bg-img3" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-4 b-layer-4 sway-4" style="left: -459px;">
+<img alt="img" class="b-bg-img4" src="./Matcha Slim1_files/leaf_2.png">
+</div>
+<div class="b-recommendation-content">
+<div class="b-recommendation-textbox1">
+<h3 class="b-h3"> Experții recomandă! <span class="b-color-lime b-800"> Matcha&nbsp;Slim </span> -
+                            a&nbsp;pierde în greutate fără cuvântul dietă. </h3>
+<p class="b-p"><b> Clienților mei recomand matcha <span class="b-color-lime b-800">
+                                    "Matcha&nbsp;Slim" </span></b> din mai multe motive. </p>
+<p class="b-p"> În primul rând, pierderea în greutate are loc încet și în etape, fără a induce
+                            organismul într-o stare de stres. Spre deosebire de analogii care afectează agresiv corpul
+                            și îi dăunează, Matcha&nbsp;Slim, dimpotrivă, tonifică, oferă vitalitate și vindecă. </p>
+<p class="b-p"> Prin recuperare mă refer la curățarea corpului de reziduuri și toxine, precum și
+                            la reducerea grăsimii corporale. </p>
+</div>
+<div class="b-recommendation-doctar">
+<img alt="img" class="b-bg-img5" src="./Matcha Slim1_files/doctor.png">
+<div class="b-recommendation-doctar__name">
+<p class="b-p"> Virgil Nicolae </p>
+</div>
+<div class="b-recommendation-doctar__post">
+<p class="b-p"> șef al Centrului pentru combaterea excesului de greutate, experiență de
+                                lucru de 12 ani </p>
+</div>
+</div>
+<div class="b-recommendation-textbox2">
+<p class="b-p"> În al doilea rând, Matcha&nbsp;Slim oferă rezultatul într-un timp scurt, ceea ce face
+                            ca produsul să fie un lider absolut printre toate metodele de scădere în greutate. Al
+                            treilea: Matcha&nbsp;Slim blochează revenirea greutății. Pentru aceasta recomand repetarea curei
+                            Matcha&nbsp;Slim la fiecare 6 luni. Este foarte important nu numai pierderea excesului de
+                            greutate, ci și menținerea rezultatului, iar conform statisticilor, 95% dintre oameni nu
+                            reușesc acest lucru. </p>
+<p class="b-p"><b> În timpul practicii personale de lucru cu pacienții nu am depistat niciun
+                                dezavantaj al Matcha&nbsp;Slim. </b></p>
+</div>
+</div>
+</div>
+</div>
+<div class="b-reviews">
+<div class="b-conteiner">
+<div class="b-reviews-titlebox">
+<h3 class="b-h3 b-white"> Matcha&nbsp;Slim vs excesul de greutate - câștigătorul este evident! </h3>
+</div>
+<div class="b-reviews-boxsliders">
+<div class="b-reviews-slider b-position-1">
+<div class="b-item-top">
+<img alt="img" class="b-item-ava" src="./Matcha Slim1_files/reviews_ava_1.png">
+<div class="b-item-user">
+<p class="b-item-name"> Lumi237 <span class="b-800"> · </span> <span class="b-darkblue">
+                                        Urmărește </span></p>
+<p class="b-item-geo"> Germania, Hamburg </p>
+</div>
+</div>
+<img alt="img" class="b-item-img" src="./Matcha Slim1_files/reviews_img_1.jpg">
+<div class="b-item-middle">
+<span class="b-like"></span>
+<span class="b-comment"></span>
+<span class="b-repost"></span>
+<span class="b-favorites"></span>
+</div>
+<p class="b-item-counter"> 300 likes </p>
+<p class="b-item-text"><span class="b-600"> Lumi237 </span> Am băut 2 luni cu întreruperi. În
+                            total, am slăbit cu 14 kg. Sunt nespus de mulțumită de rezultat, mai ales că, în plus față
+                            de excesul de greutate, au dispărut așa probleme precum acneea și somnolența permanentă.
+                            Dispoziția și capacitate de lucru sunt acum la cel mai înalt nivel, de mult timp nu am
+                            simțit așa ceva. Vreau să creez, m-am întors chiar și la lecțiile de artă. </p>
+<p class="b-item-text"><span class="b-darkblue"> #Matcha_Slim #Slim #Diet </span></p>
+</div>
+<div class="b-reviews-slider b-position-2">
+<div class="b-item-top">
+<img alt="img" class="b-item-ava" src="./Matcha Slim1_files/reviews_ava_2.png">
+<div class="b-item-user">
+<p class="b-item-name"> IlinkaAppl <span class="b-800"> · </span> <span class="b-darkblue"> Urmărește </span></p>
+<p class="b-item-geo"> Germania, Berlin </p>
+</div>
+</div>
+<img alt="img" class="b-item-img" src="./Matcha Slim1_files/reviews_img_2.jpg">
+<div class="b-item-middle">
+<span class="b-like"></span>
+<span class="b-comment"></span>
+<span class="b-repost"></span>
+<span class="b-favorites"></span>
+</div>
+<p class="b-item-counter"> 560 likes </p>
+<p class="b-item-text"><span class="b-600"> IlinkaAppl </span> O băutură foarte gustoasă și
+                            neobișnuită de culoare verde. Mi-a plăcut formatul comod de pulbere și rapiditatea
+                            preparării. Gustul la început părea specific, dar acum chiar îmi place. Timp de 2 săptămâni
+                            de administrare zilnică a Matcha&nbsp;Slim am pierdut 6,9 kg. Cred că e un rezultat bun. </p>
+</div>
+<div class="b-reviews-slider b-position-3">
+<div class="b-item-top">
+<img alt="img" class="b-item-ava" src="./Matcha Slim1_files/reviews_ava_3.png">
+<div class="b-item-user">
+<p class="b-item-name"> Helena1990! <span class="b-800"> · </span> <span class="b-darkblue"> Urmărește </span></p>
+<p class="b-item-geo"> Germania, Leipzig </p>
+</div>
+</div>
+<img alt="img" class="b-item-img" src="./Matcha Slim1_files/reviews_img_3.jpg">
+<div class="b-item-middle">
+<span class="b-like"></span>
+<span class="b-comment"></span>
+<span class="b-repost"></span>
+<span class="b-favorites"></span>
+</div>
+<p class="b-item-counter"> 2900 likes </p>
+<p class="b-item-text"><span class="b-600"> Helena1990! </span> Ador Matcha&nbsp;Slim. Dimineața, îmi
+                            fac o ceașcă și o beau în liniște în timp ce familia doarme. Revigorează, tonifică, îți dă
+                            dispoziție de lucru, dar cel mai important — reduce greutatea. Am luat o cură, am slăbit cu
+                            12 kg, în același timp pielea nu s-a lăsat, ci dimpotrivă - s-a întins. Mă simt cu 10 ani
+                            mai tânără, recomand cu încredere. </p>
+</div>
+<div class="b-reviews-slider b-position-4">
+<div class="b-item-top">
+<img alt="img" class="b-item-ava" src="./Matcha Slim1_files/reviews_ava_4.png">
+<div class="b-item-user">
+<p class="b-item-name"> MamaLuiza2 <span class="b-800"> · </span> <span class="b-darkblue"> Urmărește </span></p>
+<p class="b-item-geo"> Germania, Essen </p>
+</div>
+</div>
+<img alt="img" class="b-item-img" src="./Matcha Slim1_files/reviews_img_4.jpg">
+<div class="b-item-middle">
+<span class="b-like"></span>
+<span class="b-comment"></span>
+<span class="b-repost"></span>
+<span class="b-favorites"></span>
+</div>
+<p class="b-item-counter"> 42 likes </p>
+<p class="b-item-text"><span class="b-600"> MamaLuiza2 </span> Ceaiul matcha este o întreagă
+                            filozofie și un depozit de substanțe utile. Vitaminele, mineralele, antioxidanții au un
+                            beneficiu imens. Matcha&nbsp;Slim nu numai că reduce greutatea, dar și ne protejează de acțiunea
+                            radicalilor liberi. Mai mult, acesta previne cancerul. Din acest motiv, cred că ceaiul
+                            matcha ar trebui să fie în fiecare casă. </p>
+</div>
+<div class="b-reviews-slider b-position-0">
+<div class="b-item-top">
+<img alt="img" class="b-item-ava" src="./Matcha Slim1_files/reviews_ava_5.png">
+<div class="b-item-user">
+<p class="b-item-name"> KatyKatyLove <span class="b-800"> · </span> <span class="b-darkblue"> Urmărește </span></p>
+<p class="b-item-geo"> Germania, Dresden </p>
+</div>
+</div>
+<img alt="img" class="b-item-img" src="./Matcha Slim1_files/reviews_img_5.jpg">
+<div class="b-item-middle">
+<span class="b-like"></span>
+<span class="b-comment"></span>
+<span class="b-repost"></span>
+<span class="b-favorites"></span>
+</div>
+<p class="b-item-counter"> 20 likes </p>
+<p class="b-item-text"><span class="b-600"> KatyKatyLove </span> Matcha&nbsp;Slim m-a cucerit până în
+                            adâncul sufletului. Am încercat să slăbesc cu diete, dar în mod constant la abandonam. Iar
+                            cu o cură de acest remediu am reușit să slăbesc cu 9 kg fără modificări în dietă. În plus,
+                            am început să mă simt perfect, tenul a devenit mai luminos. A dispărut nuanța gri-galbenă,
+                            deși sunt un fumător cu o experiență de 11 ani. </p>
+</div>
+</div>
+<div class="b-reviews-boxbtn">
+<div class="b-box">
+<div class="b-arrow" id="b-left">
+<div class="b-left"></div>
+</div>
+</div>
+<div class="b-box">
+<div class="b-btn b-active"></div>
+<div class="b-btn"></div>
+<div class="b-btn"></div>
+<div class="b-btn"></div>
+<div class="b-btn"></div>
+</div>
+<div class="b-box">
+<div class="b-arrow" id="b-right">
+<div class="b-right"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="b-order">
+<div class="b-conteiner">
+<div class="b-bg-1 b-layer-3 sway-3" style="left: 555px;">
+<img alt="img" class="b-bg-img1" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-2 b-layer-1 sway-1" style="left: 690px;">
+<img alt="img" class="b-bg-img2" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-3 b-layer-2 sway-2" style="left: -16px;">
+<img alt="img" class="b-bg-img3" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-order-titlebox">
+<h3 class="b-h3"> Cum puteți comanda <span class="b-color-lime"> Matcha&nbsp;Slim </span></h3>
+</div>
+<div class="b-order-box">
+<div class="b-order-item">
+<div class="b-order-item__imgbox">
+<img alt="img" class="b-order-item__img1" src="./Matcha Slim1_files/order_1.png">
+</div>
+<div class="b-order-item__number">1</div>
+<div class="b-order-item__text">
+<div class="b-order-item__h5box">
+<h5 class="b-h5"> Completați formularul de comandă </h5>
+</div>
+<p class="b-p"> Completați formularul, lăsați detaliile de contact pentru comunicare. </p>
+</div>
+</div>
+<div class="b-order-item">
+<div class="b-order-item__imgbox">
+<img alt="img" class="b-order-item__img2" src="./Matcha Slim1_files/order_2.png">
+</div>
+<div class="b-order-item__number">2</div>
+<div class="b-order-item__text">
+<div class="b-order-item__h5box">
+<h5 class="b-h5"> Așteptați apelul managerului </h5>
+</div>
+<p class="b-p"> Așteptați apelul managerului pentru a preciza detaliile comenzii. </p>
+</div>
+</div>
+<div class="b-order-item">
+<div class="b-order-item__imgbox">
+<img alt="img" class="b-order-item__img3" src="./Matcha Slim1_files/order_3.png">
+</div>
+<div class="b-order-item__number">3</div>
+<div class="b-order-item__text">
+<div class="b-order-item__h5box">
+<h5 class="b-h5"> Primiți produsul la data și ora specificate </h5>
+</div>
+<p class="b-p"> Pregătiți-vă să acceptați complimente și priviri admirative. </p>
+</div>
+</div>
+</div>
+<div class="b-button-box b-button2-box">
+<a class="b-button b-button2" href="https://deat8.matcha-sllim.cc/azvrtrvbbe/2E63UtkgZpJtZuh/?esub=-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA&amp;al=75372&amp;ap=70587&amp;site_option=0&amp;target=-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx&amp;oc_=1#b-form"> Comandă </a>
+</div>
+</div>
+</div>
+<!-- -->
+<div class="b-header" id="b-buy">
+<div class="b-conteiner">
+<div class="b-bg-1 b-layer-2 sway-2" style="left: -189px;">
+<img alt="img" class="b-bg-img1" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-2 b-layer-1 sway-1" style="left: 7px;">
+<img alt="img" class="b-bg-img2" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<div class="b-bg-3 b-layer-4 sway-4" style="left: 1412px;">
+<img alt="img" class="b-bg-img3" src="./Matcha Slim1_files/leaf_2.png">
+</div>
+<div class="b-bg-4 b-layer-3 sway-3" style="left: 1100px;">
+<img alt="img" class="b-bg-img4" src="./Matcha Slim1_files/leaf_1.png">
+</div>
+<img alt="img" class="b-bg-img5" src="./Matcha Slim1_files/bg_header_woomen_web.png">
+<div class="b-productbox">
+<div class="b-productbox-discount">
+<p class="b-discount1"> reducere </p>
+<p class="b-discount2"> -50% </p>
+</div>
+<img alt="img" class="b-productbox-img" src="./Matcha Slim1_files/product.png">
+</div>
+<div class="b-header-item1">
+<h3 class="b-h3"> Băutură solubilă pentru pierderea în greutate </h3>
+<h1 class="b-h1"> Matcha Slim </h1>
+<h2 class="b-h2"><span class="b-800"> Minus 15&nbsp;kg </span> pe lună + stop efect </h2>
+<div class="b-textbox">
+<h3 class="b-textbox-h3"> După anulare, greutatea nu se întoarce! </h3>
+</div>
+</div>
+<div class="b-header-item2">
+<div class="b-form" id="b-form">
+<form action="https://deat8.matcha-sllim.cc/order/create/" method="post"><input type="hidden" name="esub" value="-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA">
+<input type="hidden" name="al" value="75372">
+<input type="hidden" name="ap" value="70587">
+<input type="hidden" name="site_option" value="0">
+<input type="hidden" name="target" value="-7EBNQCgQAAAdfowEDIG4ABQEBEREKEQkKEQ1CEQ0SAAF_YWRjb21ibwEx">
+<input type="hidden" name="oc_" value="1">
+<input type="hidden" name="country_code" value="BD">
+<input type="hidden" name="user_safe_id" value="d16d5d484218e0d5da912259dc08e8e6">
+<input type="hidden" name="goods_id" value="806">
+<input type="hidden" name="template_name" value="2E63UtkgZpJtZuh">
+<input type="hidden" name="ip_city" value="Dhaka">
+<input type="hidden" name="ip_country" value="BD">
+<input type="hidden" name="ip_country_name" value="Bangladesh">
+<input type="hidden" name="current_ip" value="103.140.158.87">
+<input type="hidden" name="title" value="">
+<input type="hidden" name="pid" value="642">
+<input type="hidden" name="spversion" value="1">
+<input type="hidden" name="shipment_price" value="0">
+<input type="hidden" name="total_price" value="49">
+<input type="hidden" name="price_vat" value="0.2">
+<input type="hidden" name="price_w_vat" value="58">
+<input type="hidden" name="shipment_vat" value="0.2">
+<input type="hidden" name="total_price_wo_shipping" value="49">
+<input type="hidden" name="price" value="49">
+<input type="hidden" name="old_price" value="98">
+<input type="hidden" name="currency" value="€">
+<input type="hidden" name="package_id" value="1">
+<input type="hidden" name="package_prices" value="{&#39;1&#39;: {&#39;old_price&#39;: 98, &#39;price&#39;: 49, &#39;price_w_vat&#39;: 58, &#39;shipment_price&#39;: 0}, &#39;3&#39;: {&#39;old_price&#39;: 196, &#39;price&#39;: 98, &#39;price_w_vat&#39;: 117, &#39;shipment_price&#39;: 0}, &#39;5&#39;: {&#39;old_price&#39;: 294, &#39;price&#39;: 147, &#39;price_w_vat&#39;: 176, &#39;shipment_price&#39;: 0}, &#39;7&#39;: {&#39;old_price&#39;: 392, &#39;price&#39;: 196, &#39;price_w_vat&#39;: 235, &#39;shipment_price&#39;: 0}}">
+<input type="hidden" name="protected" value="False">
+<input type="hidden" name="accept_languages" value="en-US,en;q=0.9">
+
+<h2 class="b-h2"> Reușiți să cumpărați produsul cu o reducere de -50% </h2>
+<div class="b-price-box">
+<div class="b-price-new new_price">
+<span>€ 49 *</span>
+</div>
+<div class="b-price-old old_price">
+<span>€ 98</span>
+</div>
+</div>
+<div class="b-selectbox">
+<select class="b-select" id="country_code_selector" name="country_code">
+<option value="DE">Germania</option>
+<option value="AT">Austria</option>
+<option value="BD" selected="selected">Bangladesh</option></select>
+</div>
+<input class="b-input" name="name" placeholder="Nume" type="text">
+<input class="b-input only_number onlynumber" name="phone" placeholder="Telefon" type="tel">
+<div class="b-button-box">
+<button class="b-button js_submit"> Comandă Matcha&nbsp;Slim </button>
+</div>
+<div class="b-nds">* Atrageti atentia, taxa TVA se poate schimba in functie de tara, in care
+                                faceti comanda pentru produsele noastre.</div>
+<input type="hidden" name="time_zone" value="6"><input type="hidden" name="fingerprint_" value="906b7413b6e4e2aa94e9b3e4a82b2aa9"></form>
+</div>
+</div>
+</div>
+</div>
+<!-- -->
+</div>
+<script type="text/javascript" src="./Matcha Slim1_files/js.cookie.min.js.download"></script>
+<script>
+    $(document).ready(function () {
+        
+        
+        try {
+            moment.locale("");
+            $('.day-before').text(moment().subtract(1, 'day').format('D.MM.YYYY'));
+            $('.day-after').text(moment().add(1, 'day').format('D.MM.YYYY'));
+        } catch (e) { console.log('moment problems!'); }
+    });
+</script>
+<!--retarget-->
+
+<!--retarget-->
+
+<script type="text/javascript" src="./Matcha Slim1_files/sender.min.js.download"></script>
+
+
+
+<style>
+    .button__text:after {
+        content: '*';
+        display: inline-block;
+        font-size: 75%;
+        vertical-align: top;
+    }
+
+    @media only screen and (max-width: 1230px) {
+        .ac_footer {
+            padding-bottom: 50px;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+    }
+
+    @media only screen and (max-width: 991px) {
+       .ac_footer {
+           padding: 15px;
+           font-size: 11px;
+           line-height: 1.2;
+        }
+    }
+
+</style>
+
+<div class="ac_footer">
+    <span>* By clicking the "order" button you confirm that you have read Privacy Policy and give your consent to the processing of your personal data</span><br>
+    <span>© 2021 Copyright. All rights reserved.</span><br>
+    <a href="https://deat8.matcha-sllim.cc/policy_gdpr/-7EBRQCgQAAAdfowEDIG5zu3C7EwE3bCYBggIAAw_0J5lhEQ0aEQ0iEQ1CEQ1aA0JEB25sMX9hZGNvbWJv_0hDa0w2TnczAANSOA" target="_blank">Privacy policy</a> | <a href="http://ac-feedback.com/report_form/">Report</a>
+    
+    <script>
+        typeof adc_clearFooter !== 'undefined' && adc_clearFooter();
+    </script>
+</div>
+
+<script type="text/javascript" src="./Matcha Slim1_files/fingerprint2.2.1.0.min.js.download"></script>
+<script type="text/javascript">
+function addPixel(){var e=document.createElement("img");e.src="//pixel.tomono.com/ac/v2?esub="+acrum_extra.esub+"&offer_id="+acrum_extra.offer_id+"&land_id="+acrum_extra.id+"&type="+acrum_extra.type,e.width=0,e.height=0,document.body.appendChild(e)}function addFingerprintToForms(e){addPixel();e=e.map(function(e){return e.value});window.fingerprint=Fingerprint2.x64hash128(e.join(""),31);var i=document.createElement("input");i.type="hidden",i.name="fingerprint_",i.value=window.fingerprint,$('input[name="esub"]').each(function(e,n){n.closest("form")&&n.closest("form").appendChild(i)})}window.requestIdleCallback?requestIdleCallback(function(){Fingerprint2.get(function(e){addFingerprintToForms(e)})}):setTimeout(function(){Fingerprint2.get(function(e){addFingerprintToForms(e)})},1);
+</script>
+
+<img src="./Matcha Slim1_files/v2" width="0" height="0"></body></html>
